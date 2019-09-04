@@ -31,11 +31,7 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
-
-#=====================================
-# Hosts contributed by Steven Black
-# http://stevenblack.com
+# Start MotionXBlack
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 1493361689.rsc.cdn77.org
 0.0.0.0 30-day-change.com
@@ -157,6 +153,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.adtrue.com
 0.0.0.0 media.complex.com
 0.0.0.0 api.b2c.com
+
+
+# End Of MotionXBlack
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
 0.0.0.0 www.roblox.com
 0.0.0.0 www.twitch.com
 0.0.0.0 wargaming.net
@@ -181,14 +189,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 gwp2-v19.rinet.ru
 0.0.0.0 tr.kxmp.cf
 0.0.0.0 explodie.org
-
-
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
