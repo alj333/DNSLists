@@ -3,12 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: 4 September 2019 16:08:45 (UTC)
-# Number of unique domains: 5000
+# Date: 4 September 2019 17:08:45 (UTC)
+# Number of unique domains: 25
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
 #
 # ===============================================================
 
@@ -28,143 +25,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-
-
-# End of custom host records.
-# Start MotionXBlack
-0.0.0.0 adservice.google.com.vn
-0.0.0.0 1493361689.rsc.cdn77.org
-0.0.0.0 30-day-change.com
-0.0.0.0 www.30-day-change.com
-0.0.0.0 2468.go2cloud.org
-0.0.0.0 www.2468.go2cloud.org
-0.0.0.0 adservice.google.nl
-0.0.0.0 analytics.ff.avast.com
-0.0.0.0 androidads23.adcolony.com
-0.0.0.0 analytics.publitas.com
-0.0.0.0 www.analytics.publitas.com
-0.0.0.0 annualconsumersurvey.com
-0.0.0.0 www.annualconsumersurvey.com
-0.0.0.0 amarktflow.com
-0.0.0.0 www.amarktflow.com
-0.0.0.0 apps.id.net
-0.0.0.0 www.apps.id.net
-0.0.0.0 data.cnn.com
-0.0.0.0 canuck-method.com
-0.0.0.0 www.canuck-method.com
-0.0.0.0 consumerproductsusa.com
-0.0.0.0 www.consumerproductsusa.com
-0.0.0.0 ceromobi.club
-0.0.0.0 www.ceromobi.club
-0.0.0.0 com-notice.info
-0.0.0.0 www.com-notice.info
-0.0.0.0 apple.com-notice.info
-0.0.0.0 www.apple.com-notice.info
-0.0.0.0 support.apple.com-notice.info
-0.0.0.0 www.support.apple.com-notice.info
-0.0.0.0 dobre-programy.pl
-0.0.0.0 www.dobre-programy.pl
-0.0.0.0 dobre-programy.xyz
-0.0.0.0 www.dobre-programy.xyz
-0.0.0.0 dobreprogramy.pro
-0.0.0.0 www.dobreprogramy.pro
-0.0.0.0 login.dotomi.com
-0.0.0.0 login.dotomi.net
-0.0.0.0 external.stealthedeal.com
-0.0.0.0 goodblock.gladly.io
-0.0.0.0 www.goodblock.gladly.io
-0.0.0.0 jackbootedroom.com  ## phishing
-0.0.0.0 www.jackbootedroom.com
-0.0.0.0 mackeeperapp.zeobit.com
-0.0.0.0 www.mackeeperapp.zeobit.com
-0.0.0.0 montrealgazette.stats.com
-0.0.0.0 fgoogle.com  # misspelling
-0.0.0.0 www.fgoogle.com
-0.0.0.0 hosted.stats.com
-0.0.0.0 hosted.stats.com.edgesuite.net
-0.0.0.0 howupdateworks.amazingupdates4youtoday.website
-0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
-0.0.0.0 mysterysnooper.com
-0.0.0.0 www.mysterysnooper.com
-0.0.0.0 mywot.com
-0.0.0.0 www.mywot.com
-0.0.0.0 mywot.net
-0.0.0.0 www.mywot.net
-0.0.0.0 open.oneplus.net
-0.0.0.0 quickcash-system.com
-0.0.0.0 www.quickcash-system.com
-0.0.0.0 sportsinteraction.com
-0.0.0.0 www.sportsinteraction.com
-0.0.0.0 embed.sendtonews.com
-0.0.0.0 www.embed.sendtonews.com
-0.0.0.0 performanceadexchange.com
-0.0.0.0 www.performanceadexchange.com
-0.0.0.0 privacyassistant.net
-0.0.0.0 www.privacyassistant.net
-0.0.0.0 ext.privacyassistant.net
-0.0.0.0 www.ext.privacyassistant.net
-0.0.0.0 pussysaga.com
-0.0.0.0 www.pussysaga.com
-0.0.0.0 promotion.com-rewards.club
-0.0.0.0 www.promotion.com-rewards.club
-0.0.0.0 rereddit.com
-0.0.0.0 www.rereddit.com
-0.0.0.0 s.zkcdn.net
-0.0.0.0 specialsections.siteseer.ca
-0.0.0.0 stealthedeal.com
-0.0.0.0 tags.news.com.au  # thanks, @ValbonneConsulting
-0.0.0.0 torrenty-org.pl
-0.0.0.0 www.torrenty-org.pl
-0.0.0.0 tracking.lenzmx.com
-0.0.0.0 twitter.cm  # common misspelling
-0.0.0.0 ttwitter.com  # common misspelling and, besides, scumbags there.
-0.0.0.0 www.ttwitter.com
-0.0.0.0 vdtrack.com
-0.0.0.0 www.vdtrack.com
-0.0.0.0 www.diptanuinfo.co.cc
-0.0.0.0 urldelivery.com
-0.0.0.0 www.urldelivery.com
-0.0.0.0 apps3.cointraffic.io
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 ping.chartbeat.net
-0.0.0.0 www.tvpassport.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 postmediamontrealgazette2.files.wordpress.com
-0.0.0.0 www.postmediamontrealgazette2.files.wordpress.com
-0.0.0.0 tvmds.tvpassport.com
-0.0.0.0 www.tvmds.tvpassport.com
-0.0.0.0 stats.wp.com
-0.0.0.0 4436230.fls.doubleclick.net
-0.0.0.0 www.4436230.fls.doubleclick.net
-0.0.0.0 aoredi.com
-0.0.0.0 gamblerush.com
-0.0.0.0 www.gamblerush.com
-0.0.0.0 www.cpm20.com
-0.0.0.0 videoplayer.vice.technology
-0.0.0.0 bacr.com.pk
-0.0.0.0 www.bacr.com.pk
-0.0.0.0 pakistanelevators.pk
-0.0.0.0 www.pakistanelevators.pk
-0.0.0.0 www.bidgear.com
-0.0.0.0 bidgear.com
-0.0.0.0 platform.bidgear.com
-0.0.0.0 stats.bidgear.com
-0.0.0.0 track.adtrue.com
-0.0.0.0 media.complex.com
-0.0.0.0 api.b2c.com
-
-
-# End Of MotionXBlack
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
 0.0.0.0 www.roblox.com
 0.0.0.0 www.twitch.com
 0.0.0.0 wargaming.net
@@ -189,3 +49,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 gwp2-v19.rinet.ru
 0.0.0.0 tr.kxmp.cf
 0.0.0.0 explodie.org
+
+# End of custom host records.
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
+
